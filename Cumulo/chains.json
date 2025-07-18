@@ -11,11 +11,11 @@
         "minimum_reward": 1000000
       }
     },
- {
-      "name": "nois",
-      "address": "noisvaloper1qzpl6zv2n8w4nqszrqsnxa8jzys8u9qxuh0m8j",
+{
+      "name": "axone",
+      "address": "axonevaloper1yp2ey7pyfvxaq49kkmlfp5e0pusn5274fm8fzk",
       "restake": {
-        "address": "nois1m0jwkzuvd8nt34755amc00yfazpls43vkrlf82",
+        "address": "axone1m0jwkzuvd8nt34755amc00yfazpls43vydw5l0",
          "run_time": ["every 5 minutes"],
         "minimum_reward": 1000000
       }
@@ -26,7 +26,7 @@
       "restake": {
         "address": "dym1t6tadeapn0h3gly9f7ya7aaffja5q6882gg5xv",
         "run_time": ["every 5 minutes"],
-        "minimum_reward": 100000000000000000
+        "minimum_reward": 10000000000000000
       }
     },
     {
